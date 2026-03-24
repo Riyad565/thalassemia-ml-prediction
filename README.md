@@ -1,5 +1,4 @@
-# thalassemia-ml-prediction
-Machine learning model to predict thalassemia type using neural networks
+
 # Thalassemia Prediction Model
 
 A machine learning project to predict thalassemia type in patients
